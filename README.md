@@ -56,4 +56,4 @@ public class OrderTest {
 ```
 
 ## UML Class Diagram
-![SolidPrincipleActivity](https://github.com/rnnthnysy/Solid-Principles/assets/142371703/c3818fc7-a835-48ea-8ddc-c5f4b6779ea7)
+![SolidPrinciple](https://github.com/rnnthnysy/Solid-Principles/assets/142371703/60ee9215-7999-437f-a5ff-200ca9ab5cfb)
